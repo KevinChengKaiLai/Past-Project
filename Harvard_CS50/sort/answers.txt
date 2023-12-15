@@ -1,0 +1,11 @@
+sort1 uses: bubble sort
+
+How do you know?: the best time complexity is n, worst is n^2. In this situation, sort1 performed bad in reverse but performed good in sorted data, which match the time complexity stuff.
+
+sort2 uses: merge sort
+
+How do you know?: performs good in every situation
+
+sort3 uses: selection sort
+
+How do you know?: perform bad in every situation.

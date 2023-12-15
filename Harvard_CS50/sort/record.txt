@@ -1,0 +1,16 @@
+random50000
+    sort1 6.288s
+    sort2 0.734s
+    sort3 2.697s
+
+reverse50000
+    sort1 6.945s
+    sort2 1.251s
+    sort3 3.343s
+
+sorted5000
+    sort1 1.338s
+    sort2 1.266s
+    sort3 3.357s
+
+    

@@ -1,0 +1,13 @@
+{
+    "gitdoc.enabled": true,
+    "files.associations": {
+        "math.h": "c",
+        "tuple": "c",
+        "cmath": "c",
+        "*.tcc": "c",
+        "string": "c",
+        "string_view": "c",
+        "stdlib.h": "c",
+        "string.h": "c"
+    }
+}

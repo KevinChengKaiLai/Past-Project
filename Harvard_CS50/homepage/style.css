@@ -1,0 +1,132 @@
+    p{
+        font-family: 'Times New Roman', Times, serif;
+        margin-left: 20;
+    }
+    p span{
+        background-origin: padding-box;
+
+    }
+
+    .Kevin{
+        font-size: 40px;
+        font-weight: bold;
+        text-align: center;
+        line-height: 40px;
+        margin-top: 30px;
+        margin-bottom: 40px;
+        background-size: contain;
+        
+
+        }
+    .general{
+        font-size: 20px;
+        font-weight:100;
+        text-align:start ;
+        line-height: 20px;
+        margin-top: 10;
+        
+        padding-left: 30px;
+        padding-right: 10px;
+        padding-bottom: 20px;
+    }
+
+    .picture{
+        width: 400px;
+        height: 400px;
+        margin-right: 60px ;
+        border-radius: 200px;
+        margin: 20px;
+
+    }
+
+    body{
+        background-color: rgb(228, 236, 245);
+        color: rgb(10, 6, 6);
+    }
+
+    .inline{
+        display:inline-block
+    }
+
+
+    .subscribe-button{
+        background-color: rgb(0, 0, 0);
+        color: white;
+        border: none;
+        border-radius: 200px;
+        cursor: pointer;
+        margin-right: 8px;
+        transition: opacity 0.3s;
+        vertical-align: top;
+        width: 300px;
+        height: 100px;
+        font-size: 30px;
+    }
+    .subscribe-button:hover{
+        opacity: 0.7;
+    }
+    .subscribe-button:active{
+        opacity: 0.5;
+    }
+
+
+    .FACEBOOK-button{
+        background-color:rgb(255, 255, 255);
+        border-color: rgb(29, 155, 240);
+        border-style: solid;
+        border-width: 5px;
+        color: rgb(29, 155, 240);
+        font-size: 30px;
+
+        border: radius 2px;
+        cursor: pointer; 
+        font-weight: bold;
+
+        padding-left: 16px;
+        padding-top: 9px;
+        padding-right: 16px;
+        padding-bottom: 9px;
+        transition: background-color 0.3s
+        ,color 0.3s;
+        width: 300px;
+        height: 100px;
+        margin-left: 100px;
+
+
+        vertical-align: top;
+
+    }
+    .FACEBOOK-button:hover{
+        background-color: rgb(29, 155, 240);
+        color: rgb(255, 255, 255);
+        opacity: 0.7;
+        }
+
+
+    .FACEBOOK-button:active{
+        opacity: 0.5;
+    }
+
+    .insta-button{
+        background-color: rgb(197, 154, 102);
+        color: azure;
+        border: none;
+        border-radius: 150px;
+        font-weight: bold;
+        cursor: pointer;
+        margin-left: 100px;
+        width: 200px;
+        height: 100px;        
+        font-size: 30px;
+
+    }
+    .insta-button:hover{
+        box-shadow:2px 2px 1px rgba(0, 0, 0, 0.15);
+
+        opacity: 0.9;
+    }
+    .insta-button:active{
+        opacity: 0.7;
+    }
+
+    
