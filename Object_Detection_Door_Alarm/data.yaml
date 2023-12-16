@@ -1,0 +1,5 @@
+path: /Users/lck/code/final
+train: ./train
+val: ./val
+nc: 2
+names: ['Door Close', "Door Open"]
