@@ -15,7 +15,7 @@ I have a strong interest in the following areas:
 - Natural Language Processing
 - Software Engineering
 
-## My Career Goal (in chemical industry)
+## My Career Goal 
 - Data Scientist
 - AI / Machine Learning Engineer
 - Software Engineer
